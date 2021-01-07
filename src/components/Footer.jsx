@@ -12,7 +12,7 @@ const Footer = (props) => {
         <a
           className="badge badge-dark"
           rel="noopener"
-          href="https://github.com/hashirshoaeb"
+          href="https://github.com/jones9682"
           aria-label="My GitHub"
         >
           Hashir Shoaib
@@ -20,8 +20,7 @@ const Footer = (props) => {
         using <i className="fab fa-react" />
         <p>
           <small className="text-muted">
-            Project code is open source. Feel free to fork and make your own
-            version.
+          &copy; Copyright 2020
           </small>
         </p>
       </Container>
