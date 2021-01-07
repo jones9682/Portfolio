@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/rjonesjr.png"),
   imageSize: 375,
   message:
     "My name is Robert Jones Jr. I grew up in New Jersey. I've always had a passion for technology and I am Self-motivated Entry Level Full Stack Web Developer with a background in Maintenance, Project Management, and life-long dedication to learning. Motivated towards game-design and showing my ability to problem solve. Experience in providing a high level of customer service to clients and customers while keeping a consistent work ethic. Passionate about designing and developing web applications utilizing skills in JavaScript, HTML5, API’s, jQuery as well maintaining the functionality of the website. Excited to leverage my skills in the future as part of a fast-paced, quality-driven team in order to build better experiences on the web. During My free time I enjoy fishing, camping, playing video games and spending quality time with my family.",
