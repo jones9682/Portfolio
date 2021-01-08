@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.022eb82c.chunk.css",
+    "main.js": "/Portfolio/static/js/main.9e36a836.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.9e36a836.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.d4446722.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d4446722.js.map",
+    "static/js/2.3b189aff.chunk.js": "/Portfolio/static/js/2.3b189aff.chunk.js",
+    "static/js/2.3b189aff.chunk.js.map": "/Portfolio/static/js/2.3b189aff.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.7e877c0a6d1fb1b22e80ba5b3d394d7f.js": "/Portfolio/precache-manifest.7e877c0a6d1fb1b22e80ba5b3d394d7f.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.022eb82c.chunk.css.map": "/Portfolio/static/css/main.022eb82c.chunk.css.map",
+    "static/js/2.3b189aff.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.3b189aff.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.69854b61.pdf",
+    "static/media/rjonesjr.png": "/Portfolio/static/media/rjonesjr.21501caf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4446722.js",
+    "static/js/2.3b189aff.chunk.js",
+    "static/css/main.022eb82c.chunk.css",
+    "static/js/main.9e36a836.chunk.js"
+  ]
+}
