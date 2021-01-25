@@ -68,7 +68,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "jones9682", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["Budget-Tracker", "Eat-Da-Burger", "Password-Generator", "Employee-Tracker"],
+  specificRepos: ["Notary", "Budget-Tracker", "Eat-Da-Burger", "Password-Generator", "Employee-Tracker"],
 };
 
 // Leadership SECTION
